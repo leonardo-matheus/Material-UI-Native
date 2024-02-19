@@ -10,13 +10,11 @@ Modelo de Componentes Prontos e Configurados para React Native
 - para instalar as dependências
   ``` 
   npm install --force
-
 ## Use
 
 - para iniciar o projeto
   ``` 
   npx expo start
-
-- for test
+- para teste
   ``` 
   npx expo test
